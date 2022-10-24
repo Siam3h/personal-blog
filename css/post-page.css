@@ -44,8 +44,7 @@ a {
 .quote,
 .copy {
     margin-top: 15px;
-    background: black;
-    color: white;
+    color: grey;
 }
 
 .copy {
